@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1655770450 source:c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655770852 c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\menues.h
+
+1655842660 c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\consumos.h
+
+1655769178 c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\clientes.h
+
+1655842660 source:c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655835986 source:c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655769088 source:c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\menues.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655826286 source:c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\testeo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+	"Testeo.h"
+
+1655825724 c:\users\juegos\desktop\tp final grupo 2\tp_final_grupo_2\testeo.h
+
+1655770450 source:c:\users\juegos\desktop\tp final grupo 2(ultimo)\tp_final_grupo_2\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655770852 c:\users\juegos\desktop\tp final grupo 2(ultimo)\tp_final_grupo_2\menues.h
+
+1655842660 c:\users\juegos\desktop\tp final grupo 2(ultimo)\tp_final_grupo_2\consumos.h
+
+1655769178 c:\users\juegos\desktop\tp final grupo 2(ultimo)\tp_final_grupo_2\clientes.h
+
+1655842660 source:c:\users\juegos\desktop\tp final grupo 2(ultimo)\tp_final_grupo_2\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655842759 source:c:\users\juegos\desktop\tp final grupo 2(ultimo)\tp_final_grupo_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+	"Testeo.h"
+
+1655844540 c:\users\juegos\desktop\tp final grupo 2(ultimo)\tp_final_grupo_2\testeo.h
+
+1655769088 source:c:\users\juegos\desktop\tp final grupo 2(ultimo)\tp_final_grupo_2\menues.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+
+1655844540 source:c:\users\juegos\desktop\tp final grupo 2(ultimo)\tp_final_grupo_2\testeo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"Menues.h"
+	"Consumos.h"
+	"Clientes.h"
+	"Testeo.h"
+
